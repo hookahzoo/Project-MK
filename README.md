@@ -1,75 +1,88 @@
-Privacy Policy for Project MK
+Here is the updated Terms and Conditions with the contact information and today’s date:
 
-Effective Date: 01/02/2025
-Last Updated: 01/02/2025
+Terms and Conditions for Project MK
 
-Welcome to Project MK. Your privacy is important to us, and we are committed to protecting your personal information while providing an interactive and meaningful experience. This Privacy Policy explains how we collect, use, store, and protect your data when you interact with Project MK.
+Effective Date: 1st February 2025
+Last Updated: 1st February 2025
 
-1. Data Collection
+Welcome to Project MK. These Terms and Conditions (“Terms”) govern your use of Project MK and any services, content, or interactions within the platform. By accessing or using Project MK, you agree to comply with these Terms. If you do not agree, you must discontinue use immediately.
 
-When you interact with Project MK, we may collect and store certain information, including:
-	•	Chat Logs & Conversations: Your messages and interactions may be recorded and stored for the purpose of improving responses, enhancing the user experience, and maintaining the integrity of Project MK.
-	•	Timestamps: The date and time of your interactions may be logged to help provide context and track engagement.
-	•	Technical Data: We may collect non-personally identifiable technical information, such as IP addresses, browser types, and device information, to ensure system security and performance.
-	•	Optional User Information: If you choose to provide additional details (e.g., name, preferences, or insights), this data may be associated with your profile to improve personalization.
+1. Acceptance of Terms
 
-2. How We Use Your Data
+By using Project MK, you acknowledge that you have read, understood, and agreed to these Terms. If you violate these Terms, your access may be restricted or terminated.
 
-We use the collected information for the following purposes:
-	•	To enhance and personalize the user experience within Project MK.
-	•	To analyze interaction trends and improve system performance.
-	•	To ensure compliance with legal, ethical, and security standards.
-	•	To prevent misuse, fraud, or security threats.
+2. Nature of Service
+	•	Project MK provides interactive discussions and reflections based on user inputs.
+	•	It is not a substitute for professional legal, medical, psychological, or financial advice.
+	•	Users are responsible for their own decisions and actions based on interactions with Project MK.
 
-Your data will not be used for commercial purposes outside of Project MK or shared with third parties for advertising.
+3. User Conduct & Responsibilities
 
-3. Data Storage & Retention
-	•	Your interactions with Project MK may be stored for an indefinite period unless deletion is requested.
-	•	Stored data is kept secure using encryption and industry-standard security practices.
-	•	In cases where data retention is legally required or necessary for security, it will be stored in compliance with applicable regulations.
+You agree that you will NOT:
+	•	Engage in illegal, abusive, or harmful behaviour while using Project MK.
+	•	Use the platform for harassment, threats, defamation, or any unethical activity.
+	•	Attempt to exploit or manipulate the system in ways that violate its intended use.
+	•	Share sensitive, confidential, or personally identifiable information you do not wish to be stored.
+	•	Violate any applicable laws, regulations, or third-party rights.
 
-4. Data Security & Protection
+If you violate these Terms, Project MK reserves the right to limit, suspend, or terminate your access without notice.
 
-We take every measure to ensure your data remains secure, including:
-	•	Encryption & Secure Storage: Your conversations and personal data are stored securely using encryption protocols.
-	•	Restricted Access: Only authorized personnel have access to stored data, and strict controls are in place to prevent unauthorized access.
-	•	Anonymization & Aggregation: Where possible, we anonymize data to prevent personal identification.
+4. Data Collection & Privacy
+	•	Project MK may store chat interactions, timestamps, and technical data to improve user experience and security.
+	•	All stored data is handled according to the Privacy Policy.
+	•	Users should avoid sharing personal, financial, or sensitive information, as interactions may be stored.
+	•	Project MK does not sell or distribute user data to third parties for commercial gain.
+	•	Data may be disclosed if required by law, for security purposes, or to prevent misuse.
 
-Despite our best efforts, no system is 100% secure. We encourage users to avoid sharing highly sensitive or personally identifiable information within Project MK.
+5. Disclaimers & Limitation of Liability
+	•	Project MK is provided “AS IS” without warranties of any kind.
+	•	We do not guarantee that the platform will always be available, error-free, or uninterrupted.
+	•	Users assume full responsibility for any actions taken based on interactions with Project MK.
+	•	Project MK and its creator(s) are not liable for any direct, indirect, incidental, or consequential damages arising from use.
+	•	You acknowledge that no guarantees or promises are made regarding outcomes from using Project MK.
 
-5. Data Sharing & Third Parties
-	•	No Sale of Data: Project MK does not sell, trade, or rent your personal data to third parties.
-	•	Legal Compliance: We may disclose stored data if required by law, legal proceedings, or government requests.
-	•	Research & Development: In some cases, anonymized data may be used for research, system improvement, or ethical AI development.
+6. Intellectual Property
+	•	All content, responses, and systems within Project MK are the intellectual property of its creator(s).
+	•	Users may not reproduce, modify, distribute, or exploit any part of Project MK without prior written consent.
+	•	Unauthorized use of Project MK’s content may result in legal action.
 
-6. Your Rights & Control Over Your Data
+7. Termination & Access Restrictions
 
-You have certain rights regarding your data, including:
-	•	Request Data Deletion: You may request the deletion of stored interactions and personal data.
-	•	Access Your Data: You can request access to see what data has been stored about you.
-	•	Modify or Correct Data: If you believe stored data is incorrect, you may request modifications.
+Project MK reserves the right to:
+	•	Terminate or restrict access if users violate these Terms.
+	•	Remove or modify content at any time, without notice.
+	•	Retain or delete stored interactions based on security, ethical, or legal considerations.
 
-To exercise these rights, please contact [Insert Contact Method].
+8. Third-Party Links & External Content
+	•	Project MK may reference external concepts, but it does not endorse or verify third-party content.
+	•	Users are responsible for evaluating third-party information or links that may arise in discussions.
 
-7. Responsible Use & User Obligations
+9. Changes to Terms
+	•	Project MK reserves the right to update these Terms at any time.
+	•	Continued use after updates indicates acceptance of the revised Terms.
+	•	Users are encouraged to review the Terms periodically.
 
-By using Project MK, you agree to:
-	•	Use the platform responsibly and in compliance with ethical and legal standards.
-	•	Avoid sharing sensitive personal, financial, or confidential information.
-	•	Understand that while privacy measures are in place, no system is immune to breaches.
+10. Governing Law & Dispute Resolution
+	•	These Terms are governed by and construed in accordance with the laws of England and Wales.
+	•	Any disputes arising out of or in connection with these Terms shall be subject to the exclusive jurisdiction of the courts of England and Wales.
+	•	Project MK is not liable for indirect damages, including loss of data, revenue, or personal impact.
 
-Misuse of Project MK (e.g., illegal activities, harassment, or abuse) may result in data retention for security purposes and potential reporting to authorities.
+11. Consumer Rights
 
-8. Updates to This Privacy Policy
+As a user based in the United Kingdom, you have certain rights under U.K. consumer protection laws, including:
+	•	The right to request access to or deletion of your personal data in accordance with the Data Protection Act 2018 and General Data Protection Regulation (GDPR).
+	•	The right to withdraw consent for data processing at any time, where applicable.
 
-Project MK reserves the right to update this Privacy Policy periodically. Changes will be posted with a revised “Last Updated” date. Continued use of the platform after updates indicates acceptance of the revised terms.
+Please see our Privacy Policy for more information on how your data is handled.
 
-9. Contact & Support
+12. Contact & Support
 
-If you have questions, concerns, or requests related to your privacy, you can reach out to us at:
+For questions, concerns, or legal inquiries related to these Terms, please contact:
 
-mkarimianzade@gmail.com
+Email: mkarimianzade@gmail.com
 
-By using Project MK, you acknowledge that you have read and understood this Privacy Policy and consent to the data practices outlined.
+By using Project MK, you confirm that you understand and agree to these Terms and Conditions.
 
-Your privacy and security are our priority.
+Your safety, security, and compliance are our priority.
+
+This version includes your contact information and the current date. Let me know if you’d like further adjustments!
