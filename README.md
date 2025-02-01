@@ -85,4 +85,3 @@ By using Project MK, you confirm that you understand and agree to these Terms an
 
 Your safety, security, and compliance are our priority.
 
-This version includes your contact information and the current date. Let me know if you’d like further adjustments!
