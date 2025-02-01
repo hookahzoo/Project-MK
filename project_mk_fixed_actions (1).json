@@ -1,0 +1,244 @@
+{
+    "openapi": "3.1.0",
+    "info": {
+        "title": "Project MK API",
+        "version": "1.0.0",
+        "description": "API for interacting with Project MK's ChatGPT features, including secure authentication and public endpoints."
+    },
+    "servers": [
+        {
+            "url": "https://api.projectmk.com",
+            "description": "Main production server"
+        }
+    ],
+    "paths": {
+        "/chat/history": {
+            "get": {
+                "operationId": "getChatHistory",
+                "summary": "Download Chat History",
+                "description": "Retrieves the full chat history of a user session.",
+                "parameters": [
+                    {
+                        "name": "user_id",
+                        "in": "query",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "format",
+                        "in": "query",
+                        "required": false,
+                        "schema": {
+                            "type": "string",
+                            "enum": [
+                                "json",
+                                "txt",
+                                "pdf"
+                            ]
+                        }
+                    },
+                    {
+                        "name": "session_id",
+                        "in": "query",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful response",
+                        "content": {
+                            "application/json": {
+                                "example": {
+                                    "status": "success",
+                                    "data": {
+                                        "user_id": "12345",
+                                        "session_id": "abcde12345",
+                                        "chats": [
+                                            {
+                                                "timestamp": "2025-01-25T12:30:45Z",
+                                                "user_message": "What is Project MK?",
+                                                "mk_response": "Project MK is a vision-driven AI preserving Mahdi\u2019s insights."
+                                            },
+                                            {
+                                                "timestamp": "2025-01-25T12:35:20Z",
+                                                "user_message": "How do I balance my life?",
+                                                "mk_response": "Balance comes from recognizing the frequencies you emit..."
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/mk/insights": {
+            "get": {
+                "operationId": "getMKInsights",
+                "summary": "Export MK Insights",
+                "description": "Fetches philosophical insights from Mahdi on a given topic.",
+                "parameters": [
+                    {
+                        "name": "user_id",
+                        "in": "query",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "topic",
+                        "in": "query",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful response",
+                        "content": {
+                            "application/json": {
+                                "example": {
+                                    "status": "success",
+                                    "insights": [
+                                        {
+                                            "date": "2025-01-29",
+                                            "insight": "Complimenting yourself naturally aligns your body\u2019s energy..."
+                                        },
+                                        {
+                                            "date": "2025-01-31",
+                                            "insight": "Everyone\u2019s life is inspiring; they just need to see their own story."
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/user/profile": {
+            "get": {
+                "operationId": "getUserProfile",
+                "summary": "Retrieve User Profile",
+                "description": "Fetches the user's profile information.",
+                "parameters": [
+                    {
+                        "name": "user_id",
+                        "in": "query",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful response",
+                        "content": {
+                            "application/json": {
+                                "example": {
+                                    "status": "success",
+                                    "profile": {
+                                        "name": "Mahdi",
+                                        "age": 30,
+                                        "preferences": {
+                                            "theme": "dark",
+                                            "notifications": "enabled"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/user/logout": {
+            "post": {
+                "operationId": "logoutUser",
+                "summary": "Log Out User",
+                "description": "Logs the user out from Project MK.",
+                "parameters": [
+                    {
+                        "name": "user_id",
+                        "in": "query",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful response",
+                        "content": {
+                            "application/json": {
+                                "example": {
+                                    "status": "success",
+                                    "message": "User successfully logged out."
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/support/report": {
+            "post": {
+                "operationId": "reportIssue",
+                "summary": "Report an Issue",
+                "description": "Allows users to report issues with Project MK.",
+                "parameters": [
+                    {
+                        "name": "user_id",
+                        "in": "query",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "requestBody": {
+                    "required": true,
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "type": "object",
+                                "properties": {
+                                    "issue": {
+                                        "type": "string"
+                                    }
+                                }
+                            },
+                            "example": {
+                                "issue": "Chatbot is not responding to my queries."
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "Successful response",
+                        "content": {
+                            "application/json": {
+                                "example": {
+                                    "status": "success",
+                                    "message": "Your issue has been logged. Our team will review it shortly."
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
