@@ -1,0 +1,103 @@
+{
+    "privacy_policy": {
+        "title": "Privacy Policy for Project MK",
+        "effective_date": "2025-02-01",
+        "last_updated": "2025-02-01",
+        "sections": [
+            {
+                "title": "1. Information We Collect",
+                "content": [
+                    {
+                        "subtitle": "A. User-Provided Information",
+                        "details": [
+                            "Name, email address, and other personal identifiers you voluntarily provide.",
+                            "Messages, queries, and interactions submitted through Project MK."
+                        ]
+                    },
+                    {
+                        "subtitle": "B. Automatically Collected Information",
+                        "details": [
+                            "Usage data, including time spent, interactions, and preferences.",
+                            "Device and browser information (IP address, operating system, browser type)."
+                        ]
+                    },
+                    {
+                        "subtitle": "C. Cookies and Tracking Technologies",
+                        "details": [
+                            "Cookies to improve user experience and provide personalized content."
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "2. How We Use Your Information",
+                "content": [
+                    "Enable conversations, features, and actions within Project MK.",
+                    "Analyze user interactions to enhance AI responses and features.",
+                    "Send important updates, newsletters, or alerts.",
+                    "Prevent unauthorized access and ensure compliance with policies."
+                ]
+            },
+            {
+                "title": "3. How We Share Your Information",
+                "content": [
+                    "We do not sell or rent your personal information.",
+                    {
+                        "subtitle": "A. Service Providers",
+                        "details": "With trusted third-party providers to perform essential services (e.g., cloud hosting)."
+                    },
+                    {
+                        "subtitle": "B. Compliance with Laws",
+                        "details": "If required by law or to protect our legal rights."
+                    },
+                    {
+                        "subtitle": "C. With Your Consent",
+                        "details": "When you explicitly agree to share information with others."
+                    }
+                ]
+            },
+            {
+                "title": "4. Data Storage and Security",
+                "content": [
+                    "Encrypted storage and secure servers.",
+                    "Limited access to authorized personnel only.",
+                    "Regular audits to ensure data security."
+                ]
+            },
+            {
+                "title": "5. Your Rights and Choices",
+                "content": [
+                    "Request a copy of the data we hold about you.",
+                    "Request the deletion of your personal data.",
+                    "Revoke consent for data collection or processing.",
+                    "Disable cookies or tracking technologies through browser settings."
+                ]
+            },
+            {
+                "title": "6. Third-Party Services",
+                "content": [
+                    "Project MK may integrate third-party APIs or services. These services are governed by their own privacy policies, and we recommend reviewing them."
+                ]
+            },
+            {
+                "title": "7. Children's Privacy",
+                "content": [
+                    "Project MK is not intended for individuals under the age of 13. We do not knowingly collect information from children."
+                ]
+            },
+            {
+                "title": "8. Changes to This Privacy Policy",
+                "content": [
+                    "We may update this Privacy Policy periodically. Any changes will be posted here with the updated Effective Date."
+                ]
+            },
+            {
+                "title": "9. Contact Us",
+                "content": [
+                    "Email: support@projectmk.com",
+                    "Address: 1234 Visionary Lane, Inspire City, IM 56789"
+                ]
+            }
+        ]
+    }
+}
