@@ -42,8 +42,7 @@ To exercise any of these rights, please contact us at mkarimianzade@gmail.com.
 
 7. Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time. Any changes will be communicated to you, and the updated policy will be posted on this page. Please review this Privacy Policy periodically to stay informed about how we are protecting your information.
+We may update this  Privacy Policy from time to time. Any changes will be communicated to you, and the updated policy will be posted on this page. Please review this Privacy Policy periodically to stay informed about how we are protecting your information.
 
 If you have any questions or concerns about this Privacy Policy, please contact us at mkarimianzade@gmail.com.
 
-This should cover the necessary privacy protections while ensuring compliance with UK data protection laws. Let me know if you’d like any further adjustments!
