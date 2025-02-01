@@ -1,4 +1,3 @@
-Here is the updated Terms and Conditions with the contact information and today’s date:
 
 Terms and Conditions for Project MK
 
